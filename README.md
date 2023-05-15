@@ -20,5 +20,5 @@ https://github.com/mhammadHmouda/QA_Assignment3/assets/77245617/97b681fe-8dfd-41
  - Student ascending sort on click: This test case verifies that the student column can be sorted in ascending order by clicking on the column header. -Passed-
  - Student descending sort on click: This test case ensures that the student column can be sorted in descending order by clicking on the column header. -Passed-
 
- ### *`Test Cases Description - Goals Page 1 TC` *
+ ### * `Test Cases Description - Goals Page 1 TC` *
   - Filter without selecting any goal in the observe page: This test case checks that an alert message is displayed when trying to filter without selecting any goal. -Passed-
