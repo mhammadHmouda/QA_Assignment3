@@ -29,3 +29,7 @@ Test Case 11 :( Sort STAFF Results On (goal) Clicked (ascending)) i checked if t
 
 Test Case 12 :( Sort STAFF Results On (goal) Clicked (descending)) i checked if the sort descending in goal by click to down arrow button and must sort the goal descending (susccessful)
 
+
+
+https://github.com/mhammadHmouda/QA_Assignment3/assets/92648274/8055c353-da84-4726-b864-583717d182c5
+
