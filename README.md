@@ -8,7 +8,7 @@
 - In the test case #3 (it ('Filter specific goal, group and level')) I’m check the specific goal under one topic, specific group and medium level, and after filter I’m verify if the goals under this requirement displayed successfully.
 - In the test case #4 (it ('Filter all goals not observed')) I’m check the all goals, topics, groups with all level (Low, High, Medium) under the goals not observed and then verify if the goals displayed successfully.
 - In the test case #5 (it ('Filter without select any goal')) I’m try to filter goals without select any goals under specific topic and verify if no goals displayed and verify if the alert of (please select a goal) displayed successfully.
-- In the test case #6 (It ('Filter all goals expected by now only')) I’m try to filter goals under other filter option (expected by now only) and then verify if the goals displayed successfully.
+- (FAIL) In the test case #6 (It ('Filter all goals expected by now only')) I’m try to filter goals under other filter option (expected by now only) and then verify if the goals displayed successfully but this fail because the number of goals expected should be (21) but the goal displayed is (28) and this is wrong.
 - In the test case #7 (it ('Filter all goals not observed and expected by now only')) I’m try to filter goals under other filter option (not observed and expected by now only) and then verify if the goals displayed successfully.
 
 ## Observe goals student (describe (Observe goals')):
