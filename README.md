@@ -7,7 +7,7 @@ https://github.com/mhammadHmouda/QA_Assignment3/assets/77245617/97b681fe-8dfd-41
 
 ## Testing searching, editing, filtering, and sorting functionality.
 
- ### *`Test Cases Description - Staff Page 10 TC` *
+ ### *`Test Cases Description - Staff Page 10 TC`*
  - Search by Valid Name, Should Display the rows contains the name: This test case verifies that when searching by a valid name, the rows containing the name are displayed correctly. -Passed-
  - Search by Valid Email, Should Display the rows contains the email: This test case ensures that when searching by a valid email, the rows containing the email are displayed correctly. -Passed-
  - Search by invalid data, should display no rows when searching with invalid data: This test case validates that when searching with invalid data, no rows should be displayed. -Passed-
@@ -20,5 +20,5 @@ https://github.com/mhammadHmouda/QA_Assignment3/assets/77245617/97b681fe-8dfd-41
  - Student ascending sort on click: This test case verifies that the student column can be sorted in ascending order by clicking on the column header. -Passed-
  - Student descending sort on click: This test case ensures that the student column can be sorted in descending order by clicking on the column header. -Passed-
 
- ### * `Test Cases Description - Goals Page 1 TC` *
+ ### *`Test Cases Description - Goals Page 1 TC`*
   - Filter without selecting any goal in the observe page: This test case checks that an alert message is displayed when trying to filter without selecting any goal. -Passed-
