@@ -20,3 +20,14 @@
 - In the test case #9 (it ('Unobserved all goals Observed')) I’m try unobserved all goals student observed, then verify if not goals observed.
 - In the test case #10 (it ('Observe specific goal without grade')) I’m try to observe specific goals without ang grade and then verify if this goal observed successfully without ang grade.
 - In the test case #11 (it ('Undo goal observed')) I’m try to observe goal then undo this goal operation of observe goal then verify if this goals undo observes successfully. 
+
+
+
+# Link of videos:
+
+## Filter goals: 
+https://github.com/mhammadHmouda/QA_Assignment3/assets/96300680/ca3b53f6-1e7d-4449-973a-e6000d120715
+
+## Observe goals:
+
+https://github.com/mhammadHmouda/QA_Assignment3/assets/96300680/174a1f90-2f20-487a-8466-a444afe991b4
