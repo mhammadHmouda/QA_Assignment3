@@ -3,6 +3,7 @@
 ## Filter goals (describe ('Filter goals')):
 ### In this describe I create beforeEach () to execute pre-condition of these test case:
 #### In the precondition I’m try to log in the goals page in staff account with this input data 1- username (MohammadE), 2- password (ahmad123), 3- staff option select the go to the GOALS page in observe section to create all filter type successfully.
+# Notes: The test case #6 is fail because the goals displayed is wrong
 - In the test case #1 (it ('Filter all goals')) I’m check the all goals, topics, groups with all level (Low, High, Medium) and goals observed, not observed and expected by now only, then click to apply filter button to display these goals and then verify if the goals displayed successfully.
 - In the test case #2 (it ('Filter all goals with low level')) I’m check the all goals under the low levels just, and after filter I verify if the goals under low level displayed successfully.
 - In the test case #3 (it ('Filter specific goal, group and level')) I’m check the specific goal under one topic, specific group and medium level, and after filter I’m verify if the goals under this requirement displayed successfully.
